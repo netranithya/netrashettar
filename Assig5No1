@@ -1,0 +1,2 @@
+The lambda function prints the items in the list 'data' whose value is greater than 4
+result=[10,501,22,37,100,999,87,351]
